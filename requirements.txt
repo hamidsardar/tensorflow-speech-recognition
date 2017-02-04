@@ -1,0 +1,13 @@
+libtorrent
+#required
+tensorflow
+tflearn
+numpy
+
+#optional:
+scikit-image
+pyaudio
+wave
+python_speech_features
+matplotlib
+# cv,cv2 #  deprecated, we use matplotlib.pyplot now
